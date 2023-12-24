@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Ki306.Kyianets.Lab4","l":"EquationCalculator"},{"p":"Ki306.Kyianets.Lab4","l":"EquationsApp"}];updateSearchResults();

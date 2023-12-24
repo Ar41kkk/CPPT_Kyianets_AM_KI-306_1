@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Kyianets.Lab2","l":"Camera"},{"p":"KI306.Kyianets.Lab2","l":"CameraDriver"},{"p":"KI306.Kyianets.Lab2","l":"Lens"},{"p":"KI306.Kyianets.Lab2","l":"Sensor"}];updateSearchResults();
