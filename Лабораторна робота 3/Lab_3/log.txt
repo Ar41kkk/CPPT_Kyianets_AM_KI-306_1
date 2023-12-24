@@ -1,0 +1,15 @@
+WaterproofCamera initialized.
+Camera made waterproof.
+Camera closed.
+WaterproofCamera initialized.
+Camera made waterproof.
+Camera made bulletproof.
+Camera closed.
+WaterproofCamera initialized.
+Camera made waterproof.
+Camera made bulletproof.
+Camera closed.
+WaterproofCamera initialized.
+Camera made waterproof.
+Camera made bulletproof.
+Camera closed.
